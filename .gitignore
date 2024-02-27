@@ -1,0 +1,10 @@
+*.zip
+*.log
+__pycache__
+.DS_Store
+checkpoint/
+*.pkl
+*.pyc
+.idea
+.vscode
+log/
