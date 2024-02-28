@@ -1,7 +1,7 @@
 TAT-LLM: A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data
 ====================
 
-- [Paper Link](https://arxiv.org/abs/2401.13223)
+Refer to our [TAT-LLM Paper](https://arxiv.org/abs/2401.13223) for more information.
 
 ### Requirements
 
