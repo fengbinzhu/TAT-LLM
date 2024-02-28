@@ -1,9 +1,9 @@
 TAT-LLM: A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data
 ====================
 
-We present TAT-LLM, a specialized language model crafted through the innovative Step-wise Pipeline approach, focusing on the nuanced realm of tabular and textual question answering (QA). This model is the fruit of rigorously fine-tuning the LLaMA 2 architecture with a novel dataset, autonomously generated from expertly annotated resources. TAT-LLM stands at the intersection of tabular comprehension and textual analysis, engineered to excel by embodying three fundamental phases: Extraction, Reasoning, and Execution. Our empirical findings illuminate TAT-LLM's remarkable capability to eclipse traditional benchmarks, surmounting even the most advanced models and colossal language models such as GPT-4 across a suite of demanding financial QA tasks like FinQA, TAT-QA, and TAT-DQA. This endeavor not only sets a new standard for task-specific language models but also paves the way for future explorations in optimizing smaller models for highly specialized functions.
+We present TAT-LLM, a language model specialized in answering questions over financial Tabular and Textual Data.
 
-| Model | Size | FINQA | TATQA | TATDQA |
+| Model | Size | FINQA | TAT-QA | TAT-DQA |
 | ---   | ---  | ---   | ---   | ---    |
 | GPT-3.5-Turbo | - | 58.00 | 59.47 | 52.74 |
 | GPT-4 | - | 63.91 | 71.92 | 64.46 |
